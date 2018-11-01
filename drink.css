@@ -1,0 +1,17 @@
+
+.table{
+	width: 100%;
+	font-family: "Copperplate Gothic Light";
+	font-size: 20px;
+	font-weight: bold;
+
+	background: url('imagedss/o.jpg');
+}
+
+}
+.tr{
+	text-align: right;
+	background-color: green;
+
+	
+}

@@ -1,0 +1,292 @@
+.navbar{
+	padding-right: 10px;
+	padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.navbar-text{
+	font-size: 18px;
+}
+.slideshowtext{
+  font-family: "Freestyle Script";
+  font-size: 140px;
+  color: #FF9F39;
+}
+.slideshowtext1{
+  font-family: "Freestyle Script";
+  font-size: 120px;
+  color: #FF9F39;
+}
+.slideshowtext1{
+  font-family: "Freestyle Script";
+  font-size: 100px;
+  color: #FF9F39;
+}
+center{
+	font-size: 28px;
+	font-family:"Copperplate Gothic Light";
+	font-style: bold;
+	color: green;
+}
+body{
+	background-color: white;
+}
+/*top writer*/
+.topwriter{
+font-family: "Aharoni";
+font-style: bold;
+font-size: 30px;
+color: #1913D1 ;
+}
+#enquire{
+font-family: "Time New Roman";
+font-style: bold;
+font-size: 15px;
+color: #2E4053 ;
+}
+/* Reading 2*/
+.read2{
+  font-size: 16px;
+  font-family:"Aharoni";
+  color:#6E2C00;
+  font-style: bold;
+}
+/* Reading 1*/
+.read1{
+  font-size: 16px;
+  font-family:"Aharoni";
+  color:#6E2C00;
+  font-style: bold;
+}
+/*header text*/
+.headertext{
+  font-size: 35px;
+  font-family:"Aharoni";
+  color:#6E2C00;
+  font-style: bold;
+}
+#page1{
+	font-size: 28px;
+	font-family:"Copperplate Gothic Light";
+	color: #6E2C00;
+}
+#page2{
+	font-size: 18px;
+	font-family:"Copperplate Gothic Light";
+	color: #6E2C00;
+}
+.writer{
+	font-family: "Bookman Old Style";
+	font-size: 18px;
+}
+#cheff-name{
+	font-size: 20px;
+	font-family:"Copperplate Gothic Light";
+	color: #6E2C00;
+	font-style: bold;
+}
+#cheff-work{
+	font-size: 16px;
+	font-family:"Aharoni";
+	color: #454545;
+	font-style: bold;
+}
+/*Reservation Head*/
+.reservation{
+  font-family: "Aharoni";
+  font-style: bold;
+  font-size: 35px;
+  color: #2E4053;
+
+}
+
+/*table reservation*/
+#reservationtable{
+  font-size: 15px;
+  font-family:"Time New Roman";
+  font-style: bold;
+  color: #000000;
+}
+/*Reserve Style*/
+#email1{
+  padding-right: 230px;
+}
+#name1{
+  padding-right: 225px;
+}
+#phone1{
+  padding-right: 235px;
+}
+#date1{
+  padding-right: 235px;
+}
+#time1{
+  padding-right: 238px;
+}
+#member1{
+  padding-right: 210px;
+}
+#specail1{
+  padding-right: 140px;
+}
+/*footer quote*/
+.footer1{
+  font-family: "Bauhaus 93";
+  font-style: bold;
+  font-size: 40px;
+  color: #F0F3F4;
+}
+.footer1{
+  font-family: "Bauhaus 93";
+  font-style: bold;
+  font-size: 40px;
+  color: #F0F3F4;
+}
+/
+/* footer section */
+/* footer section */
+footer {
+  background: url('images/footer7.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+#footer1 {
+  background: url('images/footer5.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#footer2 {
+  background: url('images/footer6.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+#footer3{
+  background: url('images/footer1.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+#footer4{
+  background: url('images/footer-bg.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#footer-reservation{
+  background: url('images/footer-reservation.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+footer h2 {
+  padding-bottom: 14px;
+}
+footer h3 {
+  padding-top: 8px;
+}
+footer p {
+  color: #ffffff;
+}
+footer span {
+  font-weight: bold;
+  padding-left: 24px;
+}
+footer .ph, footer .address {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+footer .fa {
+  font-size: 12px;
+  padding-right: 10px;
+}
+
+
+/* social icon */
+.social-icon {
+  padding: 0;
+}
+.social-icon li {
+  list-style: none;
+  display: inline-block;
+  padding: 0;
+}
+.social-icon li a {
+  background: #f0f0f0;
+  border-radius: 50%;
+  color: #5C5C5C;
+  font-size: 16px;
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.4s ease-in-out;
+  margin-top: 12px;
+  margin-right: 16px;
+  top: 0;
+  position: relative;
+  padding: 0;
+}
+.social-icon li a:hover {
+  background: #F6D76B;
+  top: 5px;
+}
+
+/* copyright section */
+#copyright {
+  background: #343434;
+  color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+#copyright p {
+  color: #ffffff;
+}
+#copyright a {
+  color: #ffffff;
+}
+#copyright a:hover {
+  color: #FF0;
+}
+#top-link.affix {
+        position: absolute;
+        bottom: 10px;
+        right: 20px;
+       
+}
+.buttontop{
+   font-family:"Aharoni" 
+   font-size:16px;
+   color: #FBFCFC;
+   background-color: #2E4053;
+}
+
+.pmenu{
+  font-family: "Bookman Old Style";
+  font-style: bold;
+  text-align: left;
+}
